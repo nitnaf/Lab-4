@@ -23,31 +23,31 @@
                   <Button mnemonicParsing="false" text="Leave" />
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                </children>
                <BorderPane.margin>
@@ -63,31 +63,31 @@
                   <Button mnemonicParsing="false" text="Leave" />
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                </children>
             </HBox>
@@ -100,31 +100,31 @@
                   <Button mnemonicParsing="false" text="Leave" />
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                </children>
             </HBox>
@@ -137,31 +137,31 @@
                   <Button mnemonicParsing="false" text="Leave" />
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                </children>
             </VBox>
@@ -171,23 +171,23 @@
                <children>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                        <Image url="@../Images/Back%20of%20Card%20Texture.jpg" />
                      </image></ImageView>
                   <Button mnemonicParsing="false" text="Start" />
                </children>
