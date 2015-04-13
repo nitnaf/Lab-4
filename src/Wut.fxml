@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <BorderPane layoutX="-1.0" layoutY="1.0" prefHeight="638.0" prefWidth="600.0" style="-fx-background-color: green;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <left>
+            <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" spacing="10.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label alignment="CENTER_RIGHT" text="Player 1">
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </Label>
+                  <Button mnemonicParsing="false" text="Sit" />
+                  <Button mnemonicParsing="false" text="Leave" />
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+               </children>
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin>
+            </VBox>
+         </left>
+         <top>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="10.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label text="Player 3" />
+                  <Button mnemonicParsing="false" text="Sit" />
+                  <Button mnemonicParsing="false" text="Leave" />
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+               </children>
+            </HBox>
+         </top>
+         <bottom>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="10.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label text="Player 4" />
+                  <Button mnemonicParsing="false" text="Sit" />
+                  <Button mnemonicParsing="false" text="Leave" />
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+               </children>
+            </HBox>
+         </bottom>
+         <right>
+            <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0" spacing="10.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Label text="Player 2" />
+                  <Button mnemonicParsing="false" text="Sit" />
+                  <Button mnemonicParsing="false" text="Leave" />
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="40.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+               </children>
+            </VBox>
+         </right>
+         <center>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="10.0" BorderPane.alignment="CENTER">
+               <children>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <ImageView fitHeight="60.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../Desktop/Pictures/Back%20of%20Card%20Texture.jpg" />
+                     </image></ImageView>
+                  <Button mnemonicParsing="false" text="Start" />
+               </children>
+            </HBox>
+         </center>
+      </BorderPane>
+      <MenuBar layoutX="-83.0" layoutY="14.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Games">
+            <items>
+                  <MenuItem mnemonicParsing="false" text="5 Card Joker-Poker" />
+                  <MenuItem mnemonicParsing="false" text="5 Card Wild-Poker (2's wild)" />
+                  <MenuItem mnemonicParsing="false" text="5 Card Draw" />
+                  <MenuItem mnemonicParsing="false" text="7 Card Draw" />
+                  <MenuItem mnemonicParsing="false" text="Texas Hold'em" />
+              <MenuItem mnemonicParsing="false" text="Omaha" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>
